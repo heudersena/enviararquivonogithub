@@ -1,4 +1,5 @@
 # enviararquivonogithub
+
 Tutorial de como enviar arquivos para o GITHUB
 <br>
 1º PASSO =<br>
@@ -9,8 +10,8 @@ CRIE UM NOVO REPOSITÓRIO<br>
 
 3º PASSO =<br>
 OLHA EU ESTOU PARTINDO E ACREDITANDO QUE VOCÊ TENHA INSTALADO O SOFTWARE NECESSÁRIO NO SEU WINDOWS OU LINUX, QUE GERENCIA O UPLOAD PARA O SERVIDOR DO GITHUB, ENTÃO VAMOS LÁ, CASO VOCÊ NÃO SAIBA COMO INSTALAR PROCURE UM TUTORIAL QUE TE AJUDE A INSTALAR NA SUA MAQUINA.
-	<br>git config –global user.name “seu nome”<br>
-	git config –global user.email “seuemail@email.com”<br>
+	<br>git config --global user.name “seu nome”<br>
+	    git config --global user.email “seuemail@email.com”<br>
 4º PASSO=<br>
 CRIE UM REPOSITÓRIO (PASTA) EM SEU COMPUTADOR COM O MESMO NOME DO DIRETÓRIO CRIADO NO GITHUB.<br>
 
